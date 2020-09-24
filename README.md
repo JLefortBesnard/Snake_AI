@@ -1,4 +1,4 @@
-# Snake_AI
+# Snake AI (snake game winner CPU)
 
 Tiny modification from the snake game of Enginner-man (https://github.com/engineer-man/youtube/blob/master/015/snake.py) to add a computer-based solver + allow the snake to cross wall.
 
